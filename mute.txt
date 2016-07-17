@@ -138,3 +138,6 @@ imgur.com##div#under-image
 ##div.discussionContainer
 ###liste_reactions
 ~nexusmods.com##.comment-thread
+
+! Adicionados por mim
+##.widget-comentarios
