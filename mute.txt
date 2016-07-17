@@ -139,5 +139,5 @@ imgur.com##div#under-image
 ###liste_reactions
 ~nexusmods.com##.comment-thread
 
-! Adicionados por mim
+! Globo.com and related like globoesporte.com, g1.com.br, etc
 ##.widget-comentarios
